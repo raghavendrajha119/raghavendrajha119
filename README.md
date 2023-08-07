@@ -48,7 +48,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on a Ecommerce Website<br><br>- 🌱 I’m currently learning Python,JS</p>
+<p align="left">- 🔭 I’m currently working on a Ecommerce Website<br><br>- 🌱 I’m currently learning Python,JS,Golang</p>
 
 ###
 
