@@ -30,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="illustrator logo"  />
 </div>
 
 ###
@@ -48,7 +50,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on a Real-Time chat application<br><br>- 🌱 I’m currently learning Python,JS,Golang</p>
+<p align="left">- 🔭 I’m currently working on a <a href="https://github.com/raghavendrajha119/Real-Time-Chat-Application" target="_blank">Real-Time chat application</a><br><br>- 🌱 I’m currently learning Python,JS,Golang</p>
 
 ###
 
